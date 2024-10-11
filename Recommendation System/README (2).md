@@ -42,7 +42,7 @@ To run this code in Google Colab, you need to install the following packages:
 
 5. **Copy and Paste the Code**
 
-   Copy the code from the `recommendation_system.py` file and paste it into a new cell in your Colab notebook.
+   Copy the code from the `code.py` file and paste it into a new cell in your Colab notebook.
 
 6. **Run the Code**
 
