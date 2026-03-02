@@ -1,0 +1,7 @@
+Recommendation System/data/
+Recommendation System/ml-latest-small.zip
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
